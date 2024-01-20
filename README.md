@@ -56,11 +56,9 @@ The rapid digitalization of businesses has led to an increase in customer attrit
 
 ##K-MEANS CLUSTERING
 
-<img align="center" alt="coding" width="700" src="https://github.com/Aksharasri04/Customer_churn-/blob/main/output_churn/1.png">
-
 <img align="center" alt="coding" width="700" src="https://github.com/Aksharasri04/Customer_churn-/blob/main/output_churn/3.png">
 
-
+<img align="center" alt="coding" width="700" src="https://github.com/Aksharasri04/Customer_churn-/blob/main/output_churn/1.png">
 
 
 
